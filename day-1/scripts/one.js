@@ -1,0 +1,12 @@
+let num=25;
+console.log(num);
+let num1=21.14;
+console.log(num1);
+console.log(parseFloat(num1));
+let str="praveen";
+console.log(str);
+let numstr=123;
+console.log(numstr);
+//console.log(number(15264d));
+let candrive=false;
+console.log(candrive);
